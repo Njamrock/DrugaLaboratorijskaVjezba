@@ -1,1 +1,1 @@
-# DrugaLaboratorijskaVjezba iz kolegija Programiranje u C# (VSITE)
+# Druga laboratorijska vježba iz kolegija Programiranje u C# (VSITE)
